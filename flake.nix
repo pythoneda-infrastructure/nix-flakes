@@ -46,7 +46,7 @@
           pythoneda-infrastructure-nix-flakes =
             pythonPackages.buildPythonPackage rec {
               pname = "pythoneda-infrastructure-nix-flakes";
-              version = "0.0.1a2";
+              version = "0.0.1a3";
               src = ./.;
               format = "pyproject";
 

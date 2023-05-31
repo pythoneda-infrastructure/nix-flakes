@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pythoneda-infrastructure-nix-flakes"
-version = "0.0.1a2"
+version = "0.0.1a3"
 description = "Infrastructure layer of PythonEDA Nix Flakes"
 authors = ["rydnr <github@acm-sl.org>"]
 readme = "README.md"
